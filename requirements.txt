@@ -1,0 +1,5 @@
+Flask
+Flask-CORS
+gunicorn
+waitress
+sqlite3
